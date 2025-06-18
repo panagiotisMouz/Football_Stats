@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-jose
+passlib
+
+pydantic
+pydantic-settings
+
+python-multipart
+pandas
+
+python-dotenv
+cryptography
